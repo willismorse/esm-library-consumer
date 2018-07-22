@@ -1,5 +1,5 @@
 
-This app provides a testbed for playing around with the [`esm-library`](https://github.com/willismorse/esm-library-consumer). 
+This app provides a testbed for playing around with the [`esm-library`](https://github.com/willismorse/esm-library). 
 
 
 
