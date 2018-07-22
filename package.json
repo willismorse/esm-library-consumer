@@ -1,0 +1,20 @@
+{
+  "name": "esm-library-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "module": "dist/bundle.esm.js",
+  "scripts": {
+    "build": "NODE_ENV=development rollup -c",
+    "serve": "node server.js"
+
+  },
+  "devDependencies": {
+    "express": "^4.16.3",
+    "rollup": "^0.62.0",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  },
+  "dependencies": {
+    "esm-library": "^1.0.1"
+  }
+}
